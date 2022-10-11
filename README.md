@@ -8,11 +8,14 @@ A simple ransomware script (Para a versão em português clique [aqui](https://g
 
 |       TUTORIAL       | 
 |----------------------|
-|1- Download the code  |    
+|0 - Install Python
+|0.5 - Install "Cryptography"  run:   pip install cryptography                  |
+|1- Download the code                                                           |    
 |2- Unzip and mount folder like this "cd /home/youruser/Downloads/ransomware/"  |     
 |3- Run "python encrypt.py" to encrypt all files in your ransomware folder      |   
 |4- Do you want change the password? Edit the decrypt file in the line: 36      |
 |5- Video on  YouTube: https://youtu.be/vwu-w8BUd_A                             |
+
 
 ![image](https://user-images.githubusercontent.com/86272521/194973086-44a911ff-0555-4cac-8739-ad7919171326.png)
 
