@@ -1,5 +1,5 @@
 # Ransomware
-A simple ransomware script (Para a versão em português clique [aqui](https:// ))
+A simple ransomware script (Para a versão em português clique [aqui](https://github.com/cristiancmoises/ransomware/README.md))
 ---------------------------
 <div align="center">
 <img src="https://user-images.githubusercontent.com/86272521/194970579-da056458-35a7-4794-84f2-09e5608b879d.png" width="380" height="360"/>
