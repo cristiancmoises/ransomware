@@ -15,5 +15,7 @@ A simple ransomware script
 |5- Video on  YouTube:                                                          |
 
 ![image](https://user-images.githubusercontent.com/86272521/194973086-44a911ff-0555-4cac-8739-ad7919171326.png)
-![image](https://user-images.githubusercontent.com/86272521/194973143-155f0e54-fde0-4260-9f0f-98d3c39abb7d.png)
+
+![image](https://camo.githubusercontent.com/c731fdac3ea002f80d216c4f9df4c0f125e12b839988425505054fb46ac8ab02/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5562756e747526636f6c6f723d253233304541413230267643656e7465723d74727565266c696e65733d5468616e6b732b666f722b7669736974696e67212b596f752772652b77656c636f6d6521)
 </div>
+𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 10/10/2022 
