@@ -8,6 +8,8 @@ Um script simples de Ransomware (For the English version click [here](https://gi
 
 |       TUTORIAL       | 
 |----------------------|
+|0 - Instale o python                                                                  |
+|0.5 - Instale o "Cryptography" rode # pip install cryptography                        |
 |1- Faça o Download dos códigos (pode baixar o .zip)                                   |    
 |2- Extraia e monte a pasta como no exemplo "cd /home/youruser/Downloads/ransomware/"  |     
 |3- Rode "python encrypt.py" para criptografar todos os dados da pasta                 |   
